@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet113/leetcode/tree/master/0020-valid-parentheses) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/abhijeet113/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/abhijeet113/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
