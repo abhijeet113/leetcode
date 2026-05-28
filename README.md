@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3895-count-digit-appearances](https://github.com/abhijeet113/leetcode/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhijeet113/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3895-count-digit-appearances](https://github.com/abhijeet113/leetcode/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
