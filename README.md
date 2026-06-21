@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhijeet113/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/abhijeet113/leetcode/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhijeet113/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhijeet113/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
