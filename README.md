@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijeet113/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhijeet113/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijeet113/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhijeet113/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhijeet113/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhijeet113/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijeet113/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhijeet113/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
